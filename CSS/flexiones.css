@@ -1,0 +1,10 @@
+body {background-image: url(deporte.jpg);
+	align-items: center; background-repeat: no-repeat;
+	background-size: cover;
+}
+
+img {margin-left: -40%;}
+
+h1 {margin-left: 65%;}
+
+.botones {margin-left: 85px;}
